@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\bin\Debug\net8.0\IntroCamp.exe
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\bin\Debug\net8.0\IntroCamp.deps.json
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\bin\Debug\net8.0\IntroCamp.runtimeconfig.json
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\bin\Debug\net8.0\IntroCamp.dll
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\bin\Debug\net8.0\IntroCamp.pdb
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.AssemblyInfo.cs
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.dll
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\refint\IntroCamp.dll
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.pdb
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\IntroCamp.genruntimeconfig.cache
+C:\Users\musta\source\repos\IntroCamp\IntroCamp\obj\Debug\net8.0\ref\IntroCamp.dll
